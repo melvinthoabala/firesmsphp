@@ -1,0 +1,14 @@
+{
+    "name": "melvinthoabala/firesmsphp",
+    "description": "A firesms composer private package.",
+    "autoload": {
+        "psr-4": {
+            "melvinthoabala\\firesmsphp\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
